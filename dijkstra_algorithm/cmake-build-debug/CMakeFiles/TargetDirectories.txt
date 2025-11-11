@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Documents/algo7/cmake-build-debug/CMakeFiles/algo7.dir
+C:/Users/Lenovo/Documents/algo7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Documents/algo7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
