@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Documents/assigment3algo/cmake-build-debug/CMakeFiles/assigment3algo.dir
+C:/Users/Lenovo/Documents/assigment3algo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Documents/assigment3algo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
